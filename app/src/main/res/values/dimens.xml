@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="CardViewDp">16dp</dimen>
+    <dimen name="CardViewWidth">120dp</dimen>
+    <dimen name="CardViewHeight">80dp</dimen>
+</resources>
